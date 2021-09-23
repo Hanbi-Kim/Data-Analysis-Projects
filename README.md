@@ -1,4 +1,3 @@
-# Competition Projects 
 
 # 팀프로젝트
 ### 프로젝트 목적: 
@@ -6,10 +5,15 @@
 
 <[프로젝트 PPT 보기](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B9%B4%EC%88%98%EB%A6%AC/%EC%88%98%EB%A6%AC%EC%88%98%EB%A6%AC%EC%B9%B4%EC%88%98%EB%A6%AC.pdf)>
 
+<br/><br/><br/><br/><br/>
+
 # COMPAS 데이터 분석 공모전
 [COMPAS](https://compas.lh.or.kr/)에서 주관한 경진대회 참여 목록 및 코드 정리 목록
 1. [대전시 교통사고 위험지역 도출](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2102_003)
 <[최종 보고서 보기](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/COMPAS/%EB%8C%80%EC%A0%84%EC%8B%9C%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%EC%98%88%EC%B8%A1/%EB%8C%80%EC%A0%84%EC%8B%9C%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%EC%9C%84%ED%97%98%EC%A7%80%EC%97%AD%20%EB%8F%84%EC%B6%9C%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%99%84%EB%A3%8C(PDF).pdf)>
+
+<br/><br/><br/><br/>
+
 
 # Dacon 데이터 분석 공모전
 [Dacon](https://dacon.io/)에서 주관한 경진대회 참여 목록 및 코드 정리 목록
