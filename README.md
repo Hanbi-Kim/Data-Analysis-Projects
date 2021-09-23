@@ -26,3 +26,6 @@
 
 3. [운동 동작 분류 AI 경진대회](https://dacon.io/competitions/official/235689/overview/description)
 <[코드 정리 보기](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/Dacon/%EC%9A%B4%EB%8F%99%20%EB%8F%99%EC%9E%91%20%EB%B6%84%EB%A5%98%20AI/MotionClassification.ipynb)>
+
+
+<br/><br/><br/><br/>
