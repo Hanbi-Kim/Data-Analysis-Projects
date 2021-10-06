@@ -1,6 +1,8 @@
 
 # 팀프로젝트
 ### 프로젝트 목적: 
+
+![Colors](Data-Analysis-Projects/팀프로젝트_카수리/images.jpeg)
 자동차의 손상된 부위 (스크레치/찌그러짐)에 대한 이미지를 학습한 모델을 활용하여, 추후 자동차 손상된 부위를 분류하고 해당 부위의 넓이를 도출하여 단위 면적당 자동차 수리비용을 예측하는 프로젝트 진행. 
 
 <[프로젝트 PPT 보기](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B9%B4%EC%88%98%EB%A6%AC/%EC%88%98%EB%A6%AC%EC%88%98%EB%A6%AC%EC%B9%B4%EC%88%98%EB%A6%AC.pdf)>
