@@ -4,7 +4,7 @@
 
 ![Colors](팀프로젝트_카수리/카수리.jpg)
 ### 프로젝트 목적: 
-자동차의 손상된 부위 (스크레치/찌그러짐)에 대한 이미지를 학습한 모델을 활용하여, 추후 자동차 손상된 부위를 분류하고 해당 부위의 넓이를 도출하여 단위 면적당 자동차 수리비용을 예측하는 프로젝트 진행. 
+ 자동차의 손상된 부위 (스크레치/찌그러짐)에 대한 이미지를 학습한 모델을 활용하여, 추후 자동차 손상된 부위를 분류하고 해당 부위의 넓이를 도출하여 단위 면적당 자동차 수리비용을 예측하는 프로젝트 진행. 
 
 ### 프로젝트 요약: <[PPT 보기](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B9%B4%EC%88%98%EB%A6%AC/%EC%88%98%EB%A6%AC%EC%88%98%EB%A6%AC%EC%B9%B4%EC%88%98%EB%A6%AC.pdf)>
 1. Python Library Selenium/BeautifulSoup을 통한 구글 차량 손상 이미지 크롤링
@@ -17,9 +17,12 @@
 <br/><br/><br/><br/><br/>
 # COMPAS 데이터 분석 공모전
 
-# 1. [대전시 교통사고 위험지역 도출](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2102_003)
+## 1. [대전시 교통사고 위험지역 도출](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2102_003)
 ![Colors](COMPAS/대전시.jpg)
-<[최종 보고서 보기](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/COMPAS/%EB%8C%80%EC%A0%84%EC%8B%9C%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%EC%98%88%EC%B8%A1/%EB%8C%80%EC%A0%84%EC%8B%9C%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%EC%9C%84%ED%97%98%EC%A7%80%EC%97%AD%20%EB%8F%84%EC%B6%9C%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%99%84%EB%A3%8C(PDF).pdf)>
+### 프로젝트 목적: 
+ 대전시 교통사고 데이터를 기반으로 하여, 대전시 교통사고 위험 지역 100곳을 도출하는 데이터 분석
+
+### 프로젝트 요약: <[최종 보고서 보기](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/COMPAS/%EB%8C%80%EC%A0%84%EC%8B%9C%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%EC%98%88%EC%B8%A1/%EB%8C%80%EC%A0%84%EC%8B%9C%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%EC%9C%84%ED%97%98%EC%A7%80%EC%97%AD%20%EB%8F%84%EC%B6%9C%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%99%84%EB%A3%8C(PDF).pdf)>
 
 <br/><br/><br/><br/>
 
