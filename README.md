@@ -22,7 +22,7 @@
 ### 프로젝트 목적: 
  대전시 교통사고 데이터를 기반으로 하여, 대전시 교통사고 위험 지역 100곳을 도출하는 데이터 분석
 
-### 프로젝트 요약: <[최종 보고서 보기](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/COMPAS/%EB%8C%80%EC%A0%84%EC%8B%9C%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%EC%98%88%EC%B8%A1/%EB%8C%80%EC%A0%84%EC%8B%9C%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%EC%9C%84%ED%97%98%EC%A7%80%EC%97%AD%20%EB%8F%84%EC%B6%9C%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%99%84%EB%A3%8C(PDF).pdf)>
+### 프로젝트 요약: <[PPT 보기](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/COMPAS/%EB%8C%80%EC%A0%84%EC%8B%9C%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%EC%98%88%EC%B8%A1/%EB%8C%80%EC%A0%84%EC%8B%9C%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%EC%9C%84%ED%97%98%EC%A7%80%EC%97%AD%20%EB%8F%84%EC%B6%9C%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%99%84%EB%A3%8C(PDF).pdf)>
 1. COMPAS에서 제공한 데이터 전처리 
 2. Folium을 통한 데이터 시각화 
 3. RandomForest를 통해 데이터 분석
